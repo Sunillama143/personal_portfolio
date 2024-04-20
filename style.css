@@ -389,12 +389,3 @@ img.man-icons {
     font-size: 24px;
   }
 }
-.myimage{
-  
-  transition: transform 3s;
-}
-
-.myimage:hover{
-  transform: rotateZ(15deg);
-  
-}
